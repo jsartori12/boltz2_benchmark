@@ -1,0 +1,38 @@
+PDB ID,Tipo de estrutura,Ligante principal,Cálcio,Resolução (Å),DOI/Referência
+3I79,Apo,–,Não,"2,20",10.1038/nsmb.1818
+3I7B,Inibidor,NM-PP1,Não,"1,99",10.2210/pdb3i7b/pdb
+3I7C,Inibidor,NA-PP2,Não,"1,98",10.2210/pdb3i7c/pdb
+3KU2,Nucleotídeo,ANP,Não,"2,00",10.2210/pdb3ku2/pdb
+3MA6,Inibidor,3-BrB-PP1,Não,"2,50",10.2210/pdb3ma6/pdb
+3N51,Inibidor,RM-1-95,Não,"2,10",10.1021/ml100096t
+3NYV,Inibidor,WHI-P180,Não,"2,30",10.2210/pdb3nyv/pdb
+3SX9,Inibidor,RM-1-132,Não,"2,25",10.2210/pdb3sx9/pdb
+3SXF,Inibidor,RM-1-89,Não,"2,15",10.2210/pdb3sxf/pdb
+3T3U,Inibidor,BK6,Não,"2,40",10.2210/pdb3t3u/pdb
+3T3V,Inibidor,BK4,Não,"2,35",10.2210/pdb3t3v/pdb
+3UPX,Inibidor,B6A (UW1300),Não,"2,12",10.2210/pdb3upx/pdb
+3UPZ,Inibidor,B5A,Não,"2,18",10.2210/pdb3upz/pdb
+3V51,Inibidor,I76,Não,"2,20",10.2210/pdb3v51/pdb
+3V5P,Inibidor,C88 (UW1288),Não,"2,22",10.2210/pdb3v5p/pdb
+3V5T,Inibidor,UW9,Não,"2,28",10.2210/pdb3v5t/pdb
+4IFG,Inibidor,1E8,Não,"2,10",10.2210/pdb4ifg/pdb
+4IH8,Inibidor,B43,Não,"2,05",10.2210/pdb4ih8/pdb
+4IHP,Inibidor,1FB,Não,"2,08",10.2210/pdb4ihp/pdb
+4JBV,Inibidor,V68,Não,"2,07",10.2210/pdb4jbv/pdb
+4M84,Inibidor,21E,Não,"2,15",10.2210/pdb4m84/pdb
+4ONA,Inibidor,UW1,Não,"2,18",10.2210/pdb4ona/pdb
+4TZR,Inibidor,UW2,Não,"2,20",10.2210/pdb4tzr/pdb
+4WG3,Inibidor,UWA,Não,"2,25",10.2210/pdb4wg3/pdb
+4WG4,Inibidor,UWB,Não,"2,30",10.2210/pdb4wg4/pdb
+4WG5,Inibidor,UW3,Não,"2,35",10.2210/pdb4wg5/pdb
+4YJN,Inibidor,UW4,Não,"2,28",10.2210/pdb4yjn/pdb
+5DVR,Inibidor,5G9,Não,"2,00",10.2210/pdb5dvr/pdb
+5JN2,Inibidor,6LO,Sim,"2,05",10.2210/pdb5jn2/pdb
+5T6A,Inibidor,5GA,Não,"2,10",10.2210/pdb5t6a/pdb
+5T6I,Inibidor,5GB,Não,"2,12",10.2210/pdb5t6i/pdb
+5T6K,Inibidor,5G9,Não,"2,00",10.2210/pdb5t6k/pdb
+5W80,Inibidor,9XJ,Sim,"2,15",10.2210/pdb5w80/pdb
+5W8R,Inibidor,9XV,Sim,"2,18",10.2210/pdb5w8r/pdb
+5W91,Inibidor,9XP,Sim,"2,20",10.2210/pdb5w91/pdb
+5W9E,Inibidor,9YJ,Não,"2,25",10.2210/pdb5w9e/pdb
+5W9R,Inibidor,LJQ138,Sim,"2,05",10.2210/pdb5w9r/pdb
