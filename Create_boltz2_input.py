@@ -37,7 +37,7 @@ def write_boltz_yaml(sequence, smiles, template_dir, output_name):
             {
                 "ligand": {
                     "id": "B",
-                    "smiles": smiles
+                    "smiles": f"'{smiles}'"
                 }
             }
         ],
